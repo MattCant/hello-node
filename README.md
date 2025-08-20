@@ -1,2 +1,2 @@
 # hello-node
-Repo for first JS code "Hello World
+Repo for first JS code "Hello World"
